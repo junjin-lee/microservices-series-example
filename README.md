@@ -27,7 +27,7 @@ This example is a simple version of [Microservices Using Spring Boot and Spring 
 ### Development
 * Clone Code
     ```bash
-    $ git clone git@github.ibm.com:dlyanxue/microservices-series-example.git
+    $ git clone giturl
     ```
 * Open the project with IDEA
 * Follow the Start Sequence
